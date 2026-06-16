@@ -1,0 +1,690 @@
+[
+  {
+    "category_id": 37,
+    "name": "基础模型",
+    "parent_name": null,
+    "description": "包含构建和训练基础机器学习模型的开源项目",
+    "color_theme": "Cyan",
+    "project_count": 1036
+  },
+  {
+    "category_id": 38,
+    "name": "大语言模型",
+    "parent_name": "基础模型",
+    "description": "大语言模型",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 39,
+    "name": "多模态模型",
+    "parent_name": "基础模型",
+    "description": "多模态模型",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 40,
+    "name": "视觉模型",
+    "parent_name": "基础模型",
+    "description": "视觉模型",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 41,
+    "name": "语音与音频模型",
+    "parent_name": "基础模型",
+    "description": "语音与音频模型",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 42,
+    "name": "Embedding/重排模型",
+    "parent_name": "基础模型",
+    "description": "Embedding/重排模型",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 122,
+    "name": "垂域大模型",
+    "parent_name": "基础模型",
+    "description": "垂域大模型",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 43,
+    "name": "模型基础设施",
+    "parent_name": null,
+    "description": "模型基础设施",
+    "color_theme": "Emerald",
+    "project_count": 1085
+  },
+  {
+    "category_id": 44,
+    "name": "深度学习框架",
+    "parent_name": "模型基础设施",
+    "description": "深度学习框架",
+    "color_theme": "Emerald",
+    "project_count": 0
+  },
+  {
+    "category_id": 45,
+    "name": "推理与部署",
+    "parent_name": "模型基础设施",
+    "description": "推理与部署",
+    "color_theme": "Emerald",
+    "project_count": 0
+  },
+  {
+    "category_id": 46,
+    "name": "本地运行/端侧部署",
+    "parent_name": "模型基础设施",
+    "description": "本地运行/端侧部署",
+    "color_theme": "Emerald",
+    "project_count": 0
+  },
+  {
+    "category_id": 47,
+    "name": "量化与压缩",
+    "parent_name": "模型基础设施",
+    "description": "量化与压缩",
+    "color_theme": "Emerald",
+    "project_count": 0
+  },
+  {
+    "category_id": 48,
+    "name": "模型网关与路由",
+    "parent_name": "模型基础设施",
+    "description": "模型网关与路由",
+    "color_theme": "Emerald",
+    "project_count": 0
+  },
+  {
+    "category_id": 49,
+    "name": "运维与观测",
+    "parent_name": "模型基础设施",
+    "description": "运维与观测",
+    "color_theme": "Emerald",
+    "project_count": 0
+  },
+  {
+    "category_id": 94,
+    "name": "预训练、微调与强化训练",
+    "parent_name": "模型基础设施",
+    "description": "预训练、微调与强化训练",
+    "color_theme": "Emerald",
+    "project_count": 0
+  },
+  {
+    "category_id": 50,
+    "name": "数据、标注与合成",
+    "parent_name": null,
+    "description": "数据、标注与合成",
+    "color_theme": "Amber",
+    "project_count": 174
+  },
+  {
+    "category_id": 51,
+    "name": "数据清洗与解析",
+    "parent_name": "数据、标注与合成",
+    "description": "数据清洗与解析",
+    "color_theme": "Amber",
+    "project_count": 0
+  },
+  {
+    "category_id": 52,
+    "name": "数据标注平台",
+    "parent_name": "数据、标注与合成",
+    "description": "数据标注平台",
+    "color_theme": "Amber",
+    "project_count": 0
+  },
+  {
+    "category_id": 53,
+    "name": "合成数据",
+    "parent_name": "数据、标注与合成",
+    "description": "合成数据",
+    "color_theme": "Amber",
+    "project_count": 0
+  },
+  {
+    "category_id": 54,
+    "name": "数据采集与爬取",
+    "parent_name": "数据、标注与合成",
+    "description": "数据采集与爬取",
+    "color_theme": "Amber",
+    "project_count": 0
+  },
+  {
+    "category_id": 55,
+    "name": "数据集与集合",
+    "parent_name": "数据、标注与合成",
+    "description": "数据集与集合",
+    "color_theme": "Amber",
+    "project_count": 0
+  },
+  {
+    "category_id": 56,
+    "name": "检索增强生成（RAG）",
+    "parent_name": null,
+    "description": "检索增强生成（RAG）",
+    "color_theme": "Rose",
+    "project_count": 195
+  },
+  {
+    "category_id": 57,
+    "name": "RAG框架/应用",
+    "parent_name": "检索增强生成（RAG）",
+    "description": "RAG框架/应用",
+    "color_theme": "Rose",
+    "project_count": 0
+  },
+  {
+    "category_id": 58,
+    "name": "向量数据库",
+    "parent_name": "检索增强生成（RAG）",
+    "description": "向量数据库",
+    "color_theme": "Rose",
+    "project_count": 0
+  },
+  {
+    "category_id": 59,
+    "name": "文档处理",
+    "parent_name": "检索增强生成（RAG）",
+    "description": "文档处理",
+    "color_theme": "Rose",
+    "project_count": 0
+  },
+  {
+    "category_id": 62,
+    "name": "知识图谱",
+    "parent_name": "检索增强生成（RAG）",
+    "description": "知识图谱",
+    "color_theme": "Rose",
+    "project_count": 0
+  },
+  {
+    "category_id": 63,
+    "name": "智能体开发",
+    "parent_name": null,
+    "description": "智能体开发",
+    "color_theme": "Violet",
+    "project_count": 1036
+  },
+  {
+    "category_id": 64,
+    "name": "智能体开发框架",
+    "parent_name": "智能体开发",
+    "description": "智能体开发框架",
+    "color_theme": "Violet",
+    "project_count": 0
+  },
+  {
+    "category_id": 66,
+    "name": "工具调用与MCP工具",
+    "parent_name": "智能体开发",
+    "description": "工具调用与MCP工具",
+    "color_theme": "Violet",
+    "project_count": 0
+  },
+  {
+    "category_id": 67,
+    "name": "记忆层与上下文工程",
+    "parent_name": "智能体开发",
+    "description": "记忆层与上下文工程",
+    "color_theme": "Violet",
+    "project_count": 0
+  },
+  {
+    "category_id": 69,
+    "name": "智能体协议与接入标准",
+    "parent_name": "智能体开发",
+    "description": "智能体协议与接入标准",
+    "color_theme": "Violet",
+    "project_count": 0
+  },
+  {
+    "category_id": 70,
+    "name": "智能体评估与监控",
+    "parent_name": "智能体开发",
+    "description": "智能体评估与监控",
+    "color_theme": "Violet",
+    "project_count": 0
+  },
+  {
+    "category_id": 71,
+    "name": "安全与防护",
+    "parent_name": "智能体开发",
+    "description": "安全与防护",
+    "color_theme": "Violet",
+    "project_count": 0
+  },
+  {
+    "category_id": 72,
+    "name": "智能体搭建/工作流（低代码/可视化）",
+    "parent_name": "智能体开发",
+    "description": "智能体搭建/工作流",
+    "color_theme": "Violet",
+    "project_count": 0
+  },
+  {
+    "category_id": 95,
+    "name": "提示词工程",
+    "parent_name": "智能体开发",
+    "description": "提示词工程",
+    "color_theme": "Violet",
+    "project_count": 0
+  },
+  {
+    "category_id": 102,
+    "name": "智能体编排框架",
+    "parent_name": "智能体开发",
+    "description": "智能体编排框架",
+    "color_theme": "Violet",
+    "project_count": 0
+  },
+  {
+    "category_id": 107,
+    "name": "官方调用SDK",
+    "parent_name": "智能体开发",
+    "description": "官方调用SDK",
+    "color_theme": "Violet",
+    "project_count": 0
+  },
+  {
+    "category_id": 74,
+    "name": "智能应用",
+    "parent_name": null,
+    "description": "智能应用",
+    "color_theme": "Sky",
+    "project_count": 1170
+  },
+  {
+    "category_id": 75,
+    "name": "AI编程助手（IDE/命令行）",
+    "parent_name": "智能应用",
+    "description": "AI编程助手",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 76,
+    "name": "深度研究与报告生成",
+    "parent_name": "智能应用",
+    "description": "深度研究与报告生成",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 77,
+    "name": "智能助手/通用智能体",
+    "parent_name": "智能应用",
+    "description": "智能助手/通用智能体",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 78,
+    "name": "客服与工单",
+    "parent_name": "智能应用",
+    "description": "客服与工单",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 80,
+    "name": "对话客户端/Chat UI",
+    "parent_name": "智能应用",
+    "description": "对话客户端/Chat UI",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 96,
+    "name": "电脑/浏览器自动化",
+    "parent_name": "智能应用",
+    "description": "电脑/浏览器自动化",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 100,
+    "name": "ChatBI（数据分析）",
+    "parent_name": "智能应用",
+    "description": "ChatBI数据分析",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 108,
+    "name": "项目代码审计",
+    "parent_name": "智能应用",
+    "description": "项目代码审计",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 114,
+    "name": "知识问答",
+    "parent_name": "智能应用",
+    "description": "知识问答",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 115,
+    "name": "企业ERP智能应用",
+    "parent_name": "智能应用",
+    "description": "企业ERP智能应用",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 117,
+    "name": "设计工具（UX）",
+    "parent_name": "智能应用",
+    "description": "设计工具",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 118,
+    "name": "语音助手",
+    "parent_name": "智能应用",
+    "description": "语音助手",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 119,
+    "name": "语音识别",
+    "parent_name": "智能应用",
+    "description": "语音识别",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 120,
+    "name": "语音合成",
+    "parent_name": "智能应用",
+    "description": "语音合成",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 130,
+    "name": "文本创作",
+    "parent_name": "智能应用",
+    "description": "文本创作",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 131,
+    "name": "翻译",
+    "parent_name": "智能应用",
+    "description": "翻译",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 132,
+    "name": "科学研究",
+    "parent_name": "智能应用",
+    "description": "科学研究",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 133,
+    "name": "PPT制作",
+    "parent_name": "智能应用",
+    "description": "PPT制作",
+    "color_theme": "Sky",
+    "project_count": 0
+  },
+  {
+    "category_id": 81,
+    "name": "AIGC（内容生成）",
+    "parent_name": null,
+    "description": "AI生成内容",
+    "color_theme": "Teal",
+    "project_count": 332
+  },
+  {
+    "category_id": 82,
+    "name": "图像生成",
+    "parent_name": "AIGC（内容生成）",
+    "description": "图像生成",
+    "color_theme": "Teal",
+    "project_count": 0
+  },
+  {
+    "category_id": 83,
+    "name": "视频生成",
+    "parent_name": "AIGC（内容生成）",
+    "description": "视频生成",
+    "color_theme": "Teal",
+    "project_count": 0
+  },
+  {
+    "category_id": 84,
+    "name": "音频与音乐",
+    "parent_name": "AIGC（内容生成）",
+    "description": "音频与音乐",
+    "color_theme": "Teal",
+    "project_count": 0
+  },
+  {
+    "category_id": 85,
+    "name": "3D生成",
+    "parent_name": "AIGC（内容生成）",
+    "description": "3D生成",
+    "color_theme": "Teal",
+    "project_count": 0
+  },
+  {
+    "category_id": 97,
+    "name": "数字人",
+    "parent_name": "AIGC（内容生成）",
+    "description": "数字人",
+    "color_theme": "Teal",
+    "project_count": 0
+  },
+  {
+    "category_id": 86,
+    "name": "垂直行业与场景",
+    "parent_name": null,
+    "description": "垂直行业的智能应用或智能场景",
+    "color_theme": "Indigo",
+    "project_count": 104
+  },
+  {
+    "category_id": 87,
+    "name": "科学智能",
+    "parent_name": "垂直行业与场景",
+    "description": "科学智能",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 88,
+    "name": "医疗健康",
+    "parent_name": "垂直行业与场景",
+    "description": "医疗健康",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 89,
+    "name": "金融科技",
+    "parent_name": "垂直行业与场景",
+    "description": "金融科技",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 90,
+    "name": "法律与教育",
+    "parent_name": "垂直行业与场景",
+    "description": "法律与教育",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 110,
+    "name": "政府政务",
+    "parent_name": "垂直行业与场景",
+    "description": "政府政务",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 124,
+    "name": "生产制造",
+    "parent_name": "垂直行业与场景",
+    "description": "生产制造",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 125,
+    "name": "矿业采掘",
+    "parent_name": "垂直行业与场景",
+    "description": "矿业采掘",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 126,
+    "name": "物流运输",
+    "parent_name": "垂直行业与场景",
+    "description": "物流运输",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 127,
+    "name": "农林牧渔",
+    "parent_name": "垂直行业与场景",
+    "description": "农林牧渔",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 128,
+    "name": "建筑工程",
+    "parent_name": "垂直行业与场景",
+    "description": "建筑工程",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 129,
+    "name": "零售消费",
+    "parent_name": "垂直行业与场景",
+    "description": "零售消费",
+    "color_theme": "Indigo",
+    "project_count": 0
+  },
+  {
+    "category_id": 91,
+    "name": "学习资料与资源",
+    "parent_name": null,
+    "description": "学习资料与资源",
+    "color_theme": "Cyan",
+    "project_count": 891
+  },
+  {
+    "category_id": 92,
+    "name": "综合收录",
+    "parent_name": "学习资料与资源",
+    "description": "综合收录",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 93,
+    "name": "学习路线",
+    "parent_name": "学习资料与资源",
+    "description": "学习路线",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 101,
+    "name": "科研论文",
+    "parent_name": "学习资料与资源",
+    "description": "科研论文",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 103,
+    "name": "学习教程",
+    "parent_name": "学习资料与资源",
+    "description": "学习教程",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 104,
+    "name": "基础研究",
+    "parent_name": "学习资料与资源",
+    "description": "基础研究",
+    "color_theme": "Cyan",
+    "project_count": 0
+  },
+  {
+    "category_id": 106,
+    "name": "其他项目",
+    "parent_name": null,
+    "description": "和AI无关或关系较弱的普通开源项目",
+    "color_theme": "Emerald",
+    "project_count": 357
+  },
+  {
+    "category_id": 111,
+    "name": "智能体周边",
+    "parent_name": null,
+    "description": "可以给智能体使用的技能、工具等",
+    "color_theme": "Amber",
+    "project_count": 371
+  },
+  {
+    "category_id": 112,
+    "name": "智能体Skills",
+    "parent_name": "智能体周边",
+    "description": "智能体Skills",
+    "color_theme": "Amber",
+    "project_count": 0
+  },
+  {
+    "category_id": 113,
+    "name": "MCP工具",
+    "parent_name": "智能体周边",
+    "description": "MCP工具",
+    "color_theme": "Amber",
+    "project_count": 0
+  },
+  {
+    "category_id": 116,
+    "name": "智能体插件",
+    "parent_name": "智能体周边",
+    "description": "智能体插件",
+    "color_theme": "Amber",
+    "project_count": 0
+  },
+  {
+    "category_id": 121,
+    "name": "软件Cli",
+    "parent_name": "智能体周边",
+    "description": "软件Cli",
+    "color_theme": "Amber",
+    "project_count": 0
+  }
+]

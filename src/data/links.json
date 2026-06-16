@@ -1,0 +1,194 @@
+[
+  {
+    "category": "模型与API",
+    "name": "OpenAI",
+    "url": "https://openai.com/",
+    "description": null
+  },
+  {
+    "category": "模型与API",
+    "name": "Anthropic",
+    "url": "https://www.anthropic.com/",
+    "description": null
+  },
+  {
+    "category": "模型与API",
+    "name": "Google AI",
+    "url": "https://ai.google/",
+    "description": null
+  },
+  {
+    "category": "模型与API",
+    "name": "DeepMind",
+    "url": "https://deepmind.google/",
+    "description": null
+  },
+  {
+    "category": "模型社区与权重",
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/",
+    "description": null
+  },
+  {
+    "category": "模型社区与权重",
+    "name": "ModelScope",
+    "url": "https://modelscope.cn/",
+    "description": null
+  },
+  {
+    "category": "模型社区与权重",
+    "name": "Kaggle",
+    "url": "https://www.kaggle.com/",
+    "description": null
+  },
+  {
+    "category": "模型社区与权重",
+    "name": "Papers with Code",
+    "url": "https://paperswithcode.com/",
+    "description": null
+  },
+  {
+    "category": "Agent/RAG/应用框架",
+    "name": "LangChain",
+    "url": "https://www.langchain.com/",
+    "description": null
+  },
+  {
+    "category": "Agent/RAG/应用框架",
+    "name": "LangGraph",
+    "url": "https://langchain-ai.github.io/langgraph/",
+    "description": null
+  },
+  {
+    "category": "Agent/RAG/应用框架",
+    "name": "LlamaIndex",
+    "url": "https://www.llamaindex.ai/",
+    "description": null
+  },
+  {
+    "category": "Agent/RAG/应用框架",
+    "name": "Haystack",
+    "url": "https://haystack.deepset.ai/",
+    "description": null
+  },
+  {
+    "category": "推理加速/Serving/Infra",
+    "name": "vLLM",
+    "url": "https://github.com/vllm-project/vllm",
+    "description": null
+  },
+  {
+    "category": "推理加速/Serving/Infra",
+    "name": "TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "description": null
+  },
+  {
+    "category": "推理加速/Serving/Infra",
+    "name": "SGLang",
+    "url": "https://github.com/sgl-project/sglang",
+    "description": null
+  },
+  {
+    "category": "推理加速/Serving/Infra",
+    "name": "TGI",
+    "url": "https://github.com/huggingface/text-generation-inference",
+    "description": null
+  },
+  {
+    "category": "评测/对齐/安全",
+    "name": "OpenAI Evals",
+    "url": "https://github.com/openai/evals",
+    "description": null
+  },
+  {
+    "category": "评测/对齐/安全",
+    "name": "HELM",
+    "url": "https://crfm.stanford.edu/helm/latest/",
+    "description": null
+  },
+  {
+    "category": "评测/对齐/安全",
+    "name": "lighteval",
+    "url": "https://github.com/huggingface/lighteval",
+    "description": null
+  },
+  {
+    "category": "评测/对齐/安全",
+    "name": "EleutherAI",
+    "url": "https://www.eleuther.ai/",
+    "description": null
+  },
+  {
+    "category": "论文与研究",
+    "name": "arXiv",
+    "url": "https://arxiv.org/",
+    "description": null
+  },
+  {
+    "category": "论文与研究",
+    "name": "ACL Anthology",
+    "url": "https://aclanthology.org/",
+    "description": null
+  },
+  {
+    "category": "论文与研究",
+    "name": "OpenReview",
+    "url": "https://openreview.net/",
+    "description": null
+  },
+  {
+    "category": "论文与研究",
+    "name": "Google Scholar",
+    "url": "https://scholar.google.com/",
+    "description": null
+  },
+  {
+    "category": "资讯/观察/趋势",
+    "name": "The Batch (DeepLearning.AI)",
+    "url": "https://www.deeplearning.ai/the-batch/",
+    "description": null
+  },
+  {
+    "category": "资讯/观察/趋势",
+    "name": "Import AI (Jack Clark)",
+    "url": "https://importai.substack.com/",
+    "description": null
+  },
+  {
+    "category": "资讯/观察/趋势",
+    "name": "Ben's Bites",
+    "url": "https://www.bensbites.co/",
+    "description": null
+  },
+  {
+    "category": "资讯/观察/趋势",
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com/",
+    "description": null
+  },
+  {
+    "category": "工具/产品/工作流",
+    "name": "Cursor",
+    "url": "https://cursor.com/",
+    "description": null
+  },
+  {
+    "category": "工具/产品/工作流",
+    "name": "Continue",
+    "url": "https://www.continue.dev/",
+    "description": null
+  },
+  {
+    "category": "工具/产品/工作流",
+    "name": "Open WebUI",
+    "url": "https://github.com/open-webui/open-webui",
+    "description": null
+  },
+  {
+    "category": "工具/产品/工作流",
+    "name": "ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "description": null
+  }
+]
