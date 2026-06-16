@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import projects from '@/data/projects.json';
 import categories from '@/data/categories.json';
 import links from '@/data/links.json';
@@ -29,18 +30,18 @@ export default function Home() {
             提供结构化分类与对比分析，帮助开发者快速发现优质工具。
           </p>
           <div className="mt-8 flex justify-center gap-4">
-            <a
-              href="/projects/"
+            <Link
+              href="/projects"
               className="inline-flex h-11 items-center rounded-full bg-zinc-900 dark:bg-white px-6 text-sm font-medium text-white dark:text-zinc-900 hover:bg-zinc-700 dark:hover:bg-zinc-200 transition"
             >
               浏览项目库
-            </a>
-            <a
-              href="/categories/"
+            </Link>
+            <Link
+              href="/categories"
               className="inline-flex h-11 items-center rounded-full border border-zinc-300 dark:border-zinc-700 px-6 text-sm font-medium text-zinc-700 dark:text-zinc-300 hover:bg-zinc-50 dark:hover:bg-zinc-900 transition"
             >
               分类地图
-            </a>
+            </Link>
           </div>
         </div>
       </section>
@@ -76,9 +77,9 @@ export default function Home() {
               <h2 className="text-2xl font-bold text-zinc-900 dark:text-white">热门项目</h2>
               <p className="mt-1 text-zinc-500">精选高质量 AI 开源项目</p>
             </div>
-            <a href="/projects/" className="text-sm text-blue-600 hover:text-blue-700 font-medium">
+            <Link href="/projects" className="text-sm text-blue-600 hover:text-blue-700 font-medium">
               查看全部 →
-            </a>
+            </Link>
           </div>
           <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {topProjects.map((project: any) => (

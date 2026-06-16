@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import './globals.css';
 
 export const metadata: Metadata = {
@@ -16,19 +17,19 @@ export default function RootLayout({
       <body className="antialiased min-h-screen bg-white dark:bg-zinc-950">
         <nav className="sticky top-0 z-50 border-b border-zinc-200 dark:border-zinc-800 bg-white/80 dark:bg-zinc-950/80 backdrop-blur-xl">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-            <a href="/" className="text-xl font-bold text-zinc-900 dark:text-white">
+            <Link href="/" className="text-xl font-bold text-zinc-900 dark:text-white">
               AI Knowledge
-            </a>
+            </Link>
             <div className="flex items-center gap-6">
-              <a href="/" className="text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white transition">
+              <Link href="/" className="text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white transition">
                 首页
-              </a>
-              <a href="/projects/" className="text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white transition">
+              </Link>
+              <Link href="/projects" className="text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white transition">
                 项目库
-              </a>
-              <a href="/categories/" className="text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white transition">
+              </Link>
+              <Link href="/categories" className="text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white transition">
                 分类地图
-              </a>
+              </Link>
             </div>
           </div>
         </nav>
